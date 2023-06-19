@@ -22,3 +22,17 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+
+/* TASK-3 */
+
+.gallery {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+}
+
+.photo {
+ width: 350px;
+ height: 250px;
+}
